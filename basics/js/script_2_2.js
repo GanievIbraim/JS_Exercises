@@ -1,0 +1,1 @@
+alert("This is a page for performing tasks on JS.");
