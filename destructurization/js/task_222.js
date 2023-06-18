@@ -1,3 +1,4 @@
+// 1
 function func1({ color, width, height }) {
   console.log('Color:', color);
   console.log('Width:', width);
